@@ -32,7 +32,7 @@ body,html{
     border-style: none;
     width: 15cm;
     padding-left: 30px;
-    margin-top: -10px;
+    margin-top: 20px;
     margin-left: -27px;
     border-radius: 10px 37px 298px 57px;
     border-bottom: 200cm;
@@ -47,10 +47,11 @@ body,html{
     border-style: solid;
     border: 20px;
     border-color: black;
-    padding-right: 30cm;
+    padding-right: 20cm;
     text-align: justify;
     font-size: 20px;
     padding-left: 150px;
     
 }
+
 
