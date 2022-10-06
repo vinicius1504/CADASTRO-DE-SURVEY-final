@@ -10,13 +10,47 @@ body,html{
     border-color: black;
     border-style: dashed;  
     background-color: rgb(0, 0, 0);
-    height: 50px;
-    color: beige;
+    height: 70px;
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
     
 }
-.casinha{
 
-color: black;
+.CASANAME{
 
+    font-family: casa;
+    color: rgb(0, 52, 112);
+    font-size: 40px;
+    padding-top: 30px;
+    padding-left: 100px;
 
 }
+
+.titulo2{
+    color: azure;
+    background-color: black ;
+    border-style: none;
+    width: 15cm;
+    padding-left: 30px;
+    margin-top: -10px;
+    margin-left: -27px;
+    border-radius: 10px 37px 298px 57px;
+    border-bottom: 200cm;
+    height: 23px;
+
+}
+
+
+#texts{
+
+    color: black;
+    border-style: solid;
+    border: 20px;
+    border-color: black;
+    padding-right: 30cm;
+    text-align: justify;
+    font-size: 20px;
+    padding-left: 150px;
+    
+}
+
