@@ -27,15 +27,13 @@ body,html{
 }
 
 .titulo2{
-    color: azure;
+    color: rgb(255, 255, 255);
     background-color: black ;
     border-style: none;
-    width: 15cm;
+
     padding-left: 30px;
     margin-top: 20px;
     margin-left: -27px;
-    border-radius: 10px 37px 298px 57px;
-    border-bottom: 200cm;
     height: 23px;
 
 }
@@ -54,5 +52,14 @@ body,html{
     
     
 }
+
+.video1{
+
+    height: 30cm;
+    width: 30cm;
+
+}
+
+
 
 
